@@ -1,0 +1,12 @@
+﻿Coverage,Estimate,Percent
+Total,298571,100
+Any coverage,255068,85.4
+Uninsured,43503,14.6
+Private,207786,69.6
+..Employer-based,175294,58.7
+..Direct-purchase,42346,14.2
+..TRICARE,7615,2.6
+Public,81431,27.3
+..Medicaid,45229,15.1
+..Medicare,42649,14.3
+..VA Care,6261,2.1
