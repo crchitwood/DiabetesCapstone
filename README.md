@@ -24,7 +24,7 @@ As of 2020, diabetes is a disease that afflicts approximately 10% of the US popu
   * **kafka_topic.ipynb:** Create topic for Kafka producer and consumer.
 * #### Datasets
   * **2008_race_uninsured_census.csv:** Census Dataset. Population Without Health Insurance Coverage by Race and Hispanic Origin: 2008 to 2019.
-  * **diabetic_data.csv:** Diabetes EHR Dataset
+  * **diabetic_data.csv:** Diabetes EHR Dataset. Impact of HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records.
 
 * #### SQL
   * **sample_sql_query_powerbi.sql:** Sample PowerBI SQL query for python visualization
