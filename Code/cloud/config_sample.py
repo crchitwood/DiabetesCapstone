@@ -1,0 +1,15 @@
+sql_login = "INSERT DETAILS HERE"
+sql_password = "INSERT DETAILS HERE""
+sql_server = "INSERT DETAILS HERE""
+
+client_id = "INSERT DETAILS HERE""
+clientSecret = "INSERT DETAILS HERE""
+
+confluentApiKey = "INSERT DETAILS HERE""
+confluentSecret = "INSERT DETAILS HERE""
+confluentRegistryApiKey = "INSERT DETAILS HERE""
+confluentRegistrySecret = "INSERT DETAILS HERE""
+schemaRegistryUrl = "INSERT DETAILS HERE""
+confluentBootstrapServers = "INSERT DETAILS HERE""
+confluentClusterName = "INSERT DETAILS HERE""
+confluentTopicName = "INSERT DETAILS HERE""
