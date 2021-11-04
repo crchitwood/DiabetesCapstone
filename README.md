@@ -8,8 +8,8 @@ As of 2020, diabetes is a disease that afflicts approximately 10% of the US popu
 ## References
 1. Ahmad FB, Anderson RN. The Leading Causes of Death in the US for 2020. JAMA. 2021;325(18):1829–1830. DOI: [10.1001/jama.2021.5469](http://doi.org/10.1001/jama.2021.5469)
 2. Centers for Disease Control and Prevention. National Diabetes Statistics Report, 2020. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Dept of Health and Human Services; 2020. [Link](https://www.cdc.gov/diabetes/data/statistics-report/index.html)
-3. McIlvennan CK, Eapen ZJ , Allen LA. Hospital Readmissions Reduction Program. Circulation. 2015;131:1796–1803. DOI: [10.1161/CIRCULATIONAHA.114.010270](doi.org/10.1161/CIRCULATIONAHA.114.010270)
-4. Strack B, DeShazo JP, Gennings C, Olmo JL, Ventura S, Cios KJ, Clore JN. Impact of HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records. Biomed Res Int. 2014:781670. DOI: [10.1155/2014/781670](doi.org/10.1155/2014/781670)
+3. McIlvennan CK, Eapen ZJ , Allen LA. Hospital Readmissions Reduction Program. Circulation. 2015;131:1796–1803. DOI: [10.1161/CIRCULATIONAHA.114.010270](http://doi.org/10.1161/CIRCULATIONAHA.114.010270)
+4. Strack B, DeShazo JP, Gennings C, Olmo JL, Ventura S, Cios KJ, Clore JN. Impact of HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records. Biomed Res Int. 2014:781670. DOI: [10.1155/2014/781670](http://doi.org/10.1155/2014/781670)
 5. U.S. Census Bureau. HIC-9_ACS. Population Without Health Insurance Coverage by Race and Hispanic Origin: 2008 to 2019. Health Insurance Historical Tables - HHI Series. [Link](https://www.census.gov/data/tables/time-series/demo/health-insurance/historical-series/hic.html)
 
 ## Repository File Guide:
