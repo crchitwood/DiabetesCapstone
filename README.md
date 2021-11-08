@@ -10,6 +10,7 @@ Cory Chitwood, Keith-Jordan Wilkinson, Kai Gui, and Eddy Doering
       - [SQL](#sql)
       - [Visualizations](#visualizations)
       - [MachineLearning](#machinelearning)
+      - [PowerBI](#powerbi)
     + [Project Specifications](#project-specifications)
     + [Images](#images)
 
@@ -55,6 +56,12 @@ As of 2020, diabetes is a disease that afflicts approximately 10% of the US popu
       * **ML Summary.xlsx:** Summary comparison of tested models
       * **Tuning Documentation.xlsx:** Documents feature selection, tuning, and performance gains
       * **RFC Features.xlsx:** Documents important features in Random Forest Classifier
+* #### PowerBI
+   * **KaiGuiVisualizationsByDemographics.pbix:** PowerBI Report containing Dashboard visualizations
+   * **EddyDoeringVisualizationsByDiagnoses.pbix:** PowerBI Report containing Dashboard visualizations
+   * **KeithJordanVisualizationsByAge.pbix:** PowerBI Report containing Dashboard visualizations
+   * **Cory.pbix:** PowerBI Report containing Dashboard visualizations
+
 
 ### Project Specifications
 * **CapstoneERD.drawio.pdf:** SQL Database ERD diagram
