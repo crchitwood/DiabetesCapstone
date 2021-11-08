@@ -9,8 +9,9 @@ Cory Chitwood, Keith-Jordan Wilkinson, Kai Gui, and Eddy Doering
       - [Datasets](#datasets)
       - [SQL](#sql)
       - [Visualizations](#visualizations)
-    + [ML Documentation](#ml-documentation)
+      - [MachineLearning](#machinelearning)
     + [Project Specifications](#project-specifications)
+    + [Images](#images)
 
 ## Abstract
 
