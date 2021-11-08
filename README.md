@@ -43,8 +43,17 @@ As of 2020, diabetes is a disease that afflicts approximately 10% of the US popu
 * #### Visualizations
   * **python_visualization_powerBI.ipynb:** Jupyter Notebook. Python visualization comparing demographics of Diabetes EHR dataset and US Census Bureau. Includes code to copy/paste into PowerBI PyScript Visualization
 
-### ML Documentation
-* **documentation.xlsx:** Tracks optimization of ML models 
+* ### ML Documentation
+   * **Model Summary and ROC Plot.ipynb:** Compares Accuracy and AUC Scores for optimized models.
+   * **Random Forest Classifier.ipynb:** Sample Tuning of Random Forest
+   * **Ridge Classifier.ipynb:** Sample Tuning of Ridge Classifier
+   * **SGD Classifier.ipynb:** Sample Tuning of SGD Classifier
+   * **KNN Classifier.py:** Tracks optimization of ML models 
+   * **Ensemble Voting Classifier.ipynb** Attempt at voting classifier
+   * Documentation
+      * **ML Summary.xlsx:** Summary comparison of tested models
+      * **Tuning Documentation.xlsx:** Documents feature selection, tuning, and performance gains
+      * **RFC Features.xlsx:** Documents important features in Random Forest Classifier
 
 ### Project Specifications
 * **CapstoneERD.drawio.pdf:** SQL Database ERD diagram
