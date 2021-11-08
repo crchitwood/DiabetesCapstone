@@ -60,7 +60,7 @@ As of 2020, diabetes is a disease that afflicts approximately 10% of the US popu
    * **KaiGuiVisualizationsByDemographics.pbix:** PowerBI Report containing Dashboard visualizations
    * **EddyDoeringVisualizationsByDiagnoses.pbix:** PowerBI Report containing Dashboard visualizations
    * **KeithJordanVisualizationsByAge.pbix:** PowerBI Report containing Dashboard visualizations
-   * **Cory.pbix:** PowerBI Report containing Dashboard visualizations
+   * **CoryChitwoodVisualizationsByAgeAndDiagnoses.pbix:** PowerBI Report containing Dashboard visualizations
 
 
 ### Project Specifications
