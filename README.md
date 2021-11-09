@@ -65,6 +65,7 @@ As of 2020, diabetes is a disease that afflicts approximately 10% of the US popu
 
 ### Project Specifications
 * **CapstoneERD.drawio.pdf:** SQL Database ERD diagram
+* **RepeatableETLReport.pdf:** Document ETL process and data processing
 * **Data Platform.pdf:** Project Cloud Data diagram
 * **Data Sources.pdf:** Annotated biliography of utilized datasets
 * **Executive Summary.pdf:** Project summary and proposed questions
