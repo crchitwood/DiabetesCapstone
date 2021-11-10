@@ -44,6 +44,7 @@ As of 2020, diabetes is a disease that afflicts approximately 10% of the US popu
   
 * #### Visualizations
   * **python_visualization_powerBI.ipynb:** Jupyter Notebook. Python visualization comparing demographics of Diabetes EHR dataset and US Census Bureau. Includes code to copy/paste into PowerBI PyScript Visualization
+  * **RFC_correlation matrix.ipynb:** Seaborn correlation matrix for Random Forest results
 
 * #### MachineLearning
    * **Model Summary and ROC Plot.ipynb:** Compares Accuracy and AUC Scores for optimized models.
