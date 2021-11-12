@@ -72,6 +72,7 @@ As of 2020, diabetes is a disease that afflicts approximately 10% of the US popu
 * **Executive Summary.pdf:** Project summary and proposed questions
 * **Project Management Plan.pdf:** Project plan task division and schedule
 * **VisualizationsNapkinsandFeedback.pdf:** Proposed visualizations and received feedback
+* **CapstonePresentationSlides.pdf:** PDF of presentation slides
 
 ### Images
 * **rfc_correlation_matrix.png:** Random Forrest Classifier correlation matrix. Hosted for dashboard.
